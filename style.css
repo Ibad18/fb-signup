@@ -1,0 +1,116 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+*{
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+    background-color: rgba(10, 10, 88, 0.726);
+    color: white;
+    line-height: 0%;
+    font-size: 15px;
+    padding: 10px;
+}
+.brand{
+    width: 65%;
+    padding: 50px;
+    font-size: 60px;
+}
+.email{
+    padding: 10px;
+    width: 15%;
+}
+.password{
+    padding: 10px;
+    width: 15%;
+}
+.button{
+    width: 5%;
+    height: 30px;
+    margin: auto;
+    background-color: rgba(10, 10, 88, 0.726);
+    color: white;
+    border-radius: 5px;
+}
+.body{
+    display: flex;
+    background-color: aliceblue;
+}
+.leftSide{
+    width: 50%;
+    height: 100mvh;
+    padding: 20px;
+}
+h1{
+    width: 78%;
+}
+img{
+    height: 100px;
+    width: 100px;
+    margin-top: 40px;
+    padding: 15px;
+}
+bold{
+    font-weight: bolder;
+}
+.rightSide{
+    padding: 20px;
+    width: 50%;
+    height: 100mvh;
+}
+
+.lastName{
+    width: 40%;
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+}
+.firstName{
+    border: none;
+    width: 40%;
+    border-radius: 5px;
+    padding: 8px;
+}
+.fullName{
+    border: none;
+    width: 80.7%;
+    padding: 8px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.newPassword{
+    border: none;
+    width: 80.7%;
+    padding: 8px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.textForDate{
+    display: inline;
+    color: blue;
+    font-size: 13px;
+}
+.date{
+    height: 34px;
+    border-radius: 5px;
+    border: 1px solid rgb(109, 134, 146);
+}
+.radio{
+    margin-top: 20px;
+}
+span{
+    color: blue;
+}
+#terms{
+    width: 65%;
+}
+.signup{
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    width: 200px;
+    background-color: green;
+    color: white;
+    font-weight: bolder;
+}
